@@ -8,7 +8,7 @@ Classify whether a customer purchased the SUV or not based on the customer’s a
 ![CVS data](https://www.mltut.com/wp-content/uploads/2020/12/SVM-1.jpg)
 <br/><br/><br/>
 
-#### we wil split the dataset into X and Y. Here X represents independent variables "Age and Salary"and Y represents dependent variables "purchased". which we use them as Training set 
+#### we wil split the dataset into X and Y. Here X represents independent variables "Age and Salary"and Y represents dependent variables "purchased". which we use them as Training set.
 
 ### we got 93% accuracy
 
