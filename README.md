@@ -1,19 +1,20 @@
 # SVM_simple_implementation
 
 Classify whether a customer purchased the SUV or not based on the customer’s age and salary.
-<br/><br/>
-#### Here's the CVS data<br/>
+<br/>
+#### Here's the CVS data
+<br/>
 
-![alt text for screen readers](https://www.mltut.com/wp-content/uploads/2020/12/SVM-1.jpg)
+![CVS data](https://www.mltut.com/wp-content/uploads/2020/12/SVM-1.jpg)
 <br/><br/><br/>
 
 #### we wil split the dataset into X and Y. Here X represents independent variables "Age and Salary"and Y represents dependent variables "purchased".
+
+### we got 93% accuracy
+
+## here's the output graph from matplotlib
+
+![output](https://www.mltut.com/wp-content/uploads/2020/12/svm7.png)
 <br/>
-#### we got 93% accuracy
-<br/>
-<br/>
-#### and here's the output graph from matplotlib
-<br/><br/>
-![alt text for screen readers](https://www.mltut.com/wp-content/uploads/2020/12/svm7.png)
-<br/>
-#### we have 7 wrong predictions only
+
+### *we have 7 wrong predictions only*
