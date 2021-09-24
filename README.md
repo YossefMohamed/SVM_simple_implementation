@@ -11,9 +11,10 @@ Classify whether a customer purchased the SUV or not based on the customer’s a
 
 <br/>
 <br/>
-### we got 93% accuracy
+#### we got 93% accuracy
 <br/>
-<br/>and here's the output graph f####rom matplotlib
+<br/>
+#### and here's the output graph from matplotlib
 <br/><br/>
 ![alt text for screen readers](https://www.mltut.com/wp-content/uploads/2020/12/svm7.png)
 <br/>
