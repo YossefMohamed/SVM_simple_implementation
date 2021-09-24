@@ -8,8 +8,6 @@ Classify whether a customer purchased the SUV or not based on the customer’s a
 <br/><br/><br/>
 
 #### we wil split the dataset into X and Y. Here X represents independent variables "Age and Salary"and Y represents dependent variables "purchased".
-
-<br/>
 <br/>
 #### we got 93% accuracy
 <br/>
