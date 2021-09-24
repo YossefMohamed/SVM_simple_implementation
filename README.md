@@ -2,5 +2,4 @@
 
 Classify whether a customer purchased the SUV or not based on the customer’s age and salary.
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 156”>
-
+![alt text for screen readers](https://www.mltut.com/wp-content/uploads/2020/12/SVM-1.jpg"Text to show on mouseover")
